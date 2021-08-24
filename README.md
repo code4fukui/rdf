@@ -8,6 +8,13 @@
 
 https://code4fukui.github.io/rdf/#kana
 
+### year
+
+和暦・西暦
+（例、平成21年・2021年）
+
+https://code4fukui.github.io/rdf/#year
+
 ## 越前市
 
 ### echizen_city_area
