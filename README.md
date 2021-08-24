@@ -22,6 +22,43 @@ https://code4fukui.github.io/rdf/#year
 
 https://code4fukui.github.io/rdf/#total_headcount
 
+### Brazil
+
+ブラジル(人)
+
+https://code4fukui.github.io/rdf/#brazil
+
+### China
+
+中国(人)
+
+https://code4fukui.github.io/rdf/#China
+
+### Philippines
+
+フィリピン(人)
+
+https://code4fukui.github.io/rdf/#Philippines
+
+### Korean
+
+韓国又は朝鮮(人)
+
+https://code4fukui.github.io/rdf/#Korea
+
+### America
+
+アメリカ(人)
+
+https://code4fukui.github.io/rdf/#America
+
+### other
+
+その他
+
+https://code4fukui.github.io/rdf/#other
+
+
 ## 越前市
 
 ### echizen_city_area
