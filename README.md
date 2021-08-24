@@ -40,7 +40,7 @@ https://code4fukui.github.io/rdf/#China
 
 https://code4fukui.github.io/rdf/#Philippines
 
-### Korean
+### Korea
 
 韓国又は朝鮮(人)
 
