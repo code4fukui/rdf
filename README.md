@@ -22,41 +22,41 @@ https://code4fukui.github.io/rdf/#year
 
 https://code4fukui.github.io/rdf/#total_headcount
 
-### Brazil
+### Brazil_population
 
-ブラジル(人)
+ブラジル国籍の人口
 
-https://code4fukui.github.io/rdf/#brazil
+https://code4fukui.github.io/rdf/#brazil_population
 
-### China
+### China_population
 
-中国(人)
+中国国籍の人口
 
-https://code4fukui.github.io/rdf/#China
+https://code4fukui.github.io/rdf/#China_population
 
-### Philippines
+### Philippines_population
 
-フィリピン(人)
+フィリピン国籍の人口
 
-https://code4fukui.github.io/rdf/#Philippines
+https://code4fukui.github.io/rdf/#Philippines_population
 
-### Korea
+### Korea_population
 
-韓国又は朝鮮(人)
+韓国又は朝鮮国籍の人口
 
-https://code4fukui.github.io/rdf/#Korea
+https://code4fukui.github.io/rdf/#Korea_population
 
-### America
+### America_population
 
-アメリカ(人)
+アメリカ国籍の人口
 
-https://code4fukui.github.io/rdf/#America
+https://code4fukui.github.io/rdf/#America_population
 
-### other
+### other_population
 
-その他
+その他国籍の人口
 
-https://code4fukui.github.io/rdf/#other
+https://code4fukui.github.io/rdf/#other_population
 
 
 ## 越前市
@@ -67,4 +67,6 @@ https://code4fukui.github.io/rdf/#other
 （例、東地区）
 
 https://code4fukui.github.io/rdf/#echizen_city_area
+
+### 
 
