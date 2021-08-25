@@ -76,6 +76,17 @@ https://code4fukui.github.io/rdf/#America_population
 
 https://code4fukui.github.io/rdf/#other_population
 
+### rice_field
+
+田んぼの面積(ha)
+
+https://code4fukui.github.io/rdf/#rice_field
+
+### plowed_field
+
+畑の面積(ha)
+
+https://code4fukui.github.io/rdf/#plowed_field
 
 ## 越前市
 
