@@ -76,6 +76,36 @@ https://code4fukui.github.io/rdf/#America_population
 
 https://code4fukui.github.io/rdf/#other_population
 
+### number_of_OwnedHouse
+
+持家の戸数(戸)
+
+https://code4fukui.github.io/rdf/#number_of_OwnedHouse
+
+### number_of_RentalHouse
+
+貸家の戸数(戸)
+
+https://code4fukui.github.io/rdf/#number_of_RentalHouse
+
+### number_of_IssuedHouse
+
+給与住宅の戸数(戸)
+
+https://code4fukui.github.io/rdf/#number_of_IssuedHouse
+
+### number_of_dwelling_for_sale
+
+分譲住宅の戸数(戸)
+
+https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale
+
+### total_house
+
+合計の戸数(戸)
+
+https://code4fukui.github.io/rdf/#total_house
+
 ### rice_field
 
 田んぼの面積(ha)
