@@ -88,6 +88,12 @@ https://code4fukui.github.io/rdf/#rice_field
 
 https://code4fukui.github.io/rdf/#plowed_field
 
+### total_field
+
+合計面積(ha)
+
+https://code4fukui.github.io/rdf/#total_field
+
 ## 越前市
 
 ### echizen_city_area
