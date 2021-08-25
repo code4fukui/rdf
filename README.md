@@ -21,6 +21,18 @@ https://code4fukui.github.io/rdf/#year
 
 https://code4fukui.github.io/rdf/#number_of_BusinessOffice
 
+### shipment_value
+
+製造品出荷額等(万円)
+
+https://code4fukui.github.io/rdf/#shipment_value
+
+### gross_value_added
+
+粗付加価値額(万円)
+
+https://code4fukui.github.io/rdf/#gross_value_added
+
 ### total_headcount
 
 総人数(人)
