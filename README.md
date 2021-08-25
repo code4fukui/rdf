@@ -15,6 +15,12 @@ https://code4fukui.github.io/rdf/#kana
 
 https://code4fukui.github.io/rdf/#year
 
+### number_of_BusinessOffice
+
+事業所数
+
+https://code4fukui.github.io/rdf/#number_of_BusinessOffice
+
 ### total_headcount
 
 総人数(人)
