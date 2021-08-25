@@ -170,4 +170,10 @@ https://code4fukui.github.io/rdf/#echizen_minaminakayama_population
 
 https://code4fukui.github.io/rdf/#echizen_fukuma_population
 
+### echizen_building_ownership
+
+越前市の建物の所有(現時点で所有のみ)
+
+https://code4fukui.github.io/rdf/#echizen_building_ownership
+
 
