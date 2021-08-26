@@ -135,6 +135,13 @@ https://code4fukui.github.io/rdf/#number_of_MaleTurnout
 
 https://code4fukui.github.io/rdf/#number_of_FemaleTurnout
 
+
+### voter
+
+投票者
+
+https://code4fukui.github.io/rdf/#voter
+
 ### name_of_PoliticalParty
 
 政党名
