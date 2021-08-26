@@ -143,6 +143,12 @@ https://code4fukui.github.io/rdf/#plowed_field
 
 https://code4fukui.github.io/rdf/#total_field
 
+### number_of_votes
+
+得票数(票)
+
+https://code4fukui.github.io/rdf/#number_of_votes
+
 ## 越前市
 
 ### echizen_city_area
