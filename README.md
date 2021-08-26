@@ -156,4 +156,10 @@ https://code4fukui.github.io/rdf/#echizen_city_area
 
 https://code4fukui.github.io/rdf/#echizen_building_ownership
 
+### echizen_city_bus_user
+
+市民バス利用者(人)
+
+https://code4fukui.github.io/rdf/#echizen_city_bus_user
+
 
