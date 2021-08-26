@@ -15,6 +15,13 @@ https://code4fukui.github.io/rdf/#kana
 
 https://code4fukui.github.io/rdf/#year
 
+### age
+
+年齢
+（例、15歳）
+
+https://code4fukui.github.io/rdf/#age
+
 ### number_of_BusinessOffice
 
 事業所数
