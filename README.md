@@ -54,37 +54,11 @@ https://code4fukui.github.io/rdf/#headcount
 
 https://code4fukui.github.io/rdf/#total_headcount
 
+### housing_management
 
+住宅の運営（市営or県営or公営）
 
-### number_of_OwnedHouse
-
-持家の戸数(戸)
-
-https://code4fukui.github.io/rdf/#number_of_OwnedHouse
-
-### number_of_RentalHouse
-
-貸家の戸数(戸)
-
-https://code4fukui.github.io/rdf/#number_of_RentalHouse
-
-### number_of_IssuedHouse
-
-給与住宅の戸数(戸)
-
-https://code4fukui.github.io/rdf/#number_of_IssuedHouse
-
-### number_of_dwelling_for_sale
-
-分譲住宅の戸数(戸)
-
-https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale
-
-### house_form
-
-住宅形式（例、持家, 貸家）
-
-https://code4fukui.github.io/rdf/#house_form
+https://code4fukui.github.io/rdf/#housing_management
 
 ### number_of_houses
 
