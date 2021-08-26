@@ -138,6 +138,12 @@ https://code4fukui.github.io/rdf/#total_house
 
 https://code4fukui.github.io/rdf/#cultivated_land
 
+### areasquare_ha
+
+面積(ha)
+
+https://code4fukui.github.io/rdf/#areasquare_ha
+
 ### rice_field
 
 田んぼの面積(ha)
