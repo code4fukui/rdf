@@ -82,7 +82,7 @@ https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale
 
 ### house_form
 
-住宅形式（市営or県営or公営）
+住宅形式（例、持家, 貸家）
 
 https://code4fukui.github.io/rdf/#house_form
 
