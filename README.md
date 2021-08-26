@@ -186,7 +186,11 @@ https://code4fukui.github.io/rdf/#number_of_MaleTurnout
 
 https://code4fukui.github.io/rdf/#number_of_FemaleTurnout
 
+### name_of_PoliticalParty
 
+政党名
+
+https://code4fukui.github.io/rdf/#name_of_PoliticalParty
 ## 越前市
 
 ### echizen_city_area
