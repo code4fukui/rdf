@@ -113,6 +113,12 @@ https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale
 
 https://code4fukui.github.io/rdf/#house_form
 
+### number_of_houses
+
+戸数(戸)
+
+https://code4fukui.github.io/rdf/#number_of_houses
+
 ### total_house
 
 合計の戸数(戸)
