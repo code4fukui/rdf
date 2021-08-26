@@ -107,6 +107,12 @@ https://code4fukui.github.io/rdf/#number_of_IssuedHouse
 
 https://code4fukui.github.io/rdf/#number_of_dwelling_for_sale
 
+### house_form
+
+住宅形式（市営or県営or公営）
+
+https://code4fukui.github.io/rdf/#house_form
+
 ### total_house
 
 合計の戸数(戸)
