@@ -54,41 +54,7 @@ https://code4fukui.github.io/rdf/#headcount
 
 https://code4fukui.github.io/rdf/#total_headcount
 
-### Brazil_population
 
-ブラジル国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#Brazil_population
-
-### China_population
-
-中国国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#China_population
-
-### Philippines_population
-
-フィリピン国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#Philippines_population
-
-### Korea_population
-
-韓国又は朝鮮国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#Korea_population
-
-### America_population
-
-アメリカ国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#America_population
-
-### other_population
-
-その他国籍の人口(人)
-
-https://code4fukui.github.io/rdf/#other_population
 
 ### number_of_OwnedHouse
 
@@ -144,23 +110,6 @@ https://code4fukui.github.io/rdf/#cultivated_land
 
 https://code4fukui.github.io/rdf/#areasquare_ha
 
-### rice_field
-
-田んぼの面積(ha)
-
-https://code4fukui.github.io/rdf/#rice_field
-
-### plowed_field
-
-畑の面積(ha)
-
-https://code4fukui.github.io/rdf/#plowed_field
-
-### total_field
-
-合計面積(ha)
-
-https://code4fukui.github.io/rdf/#total_field
 
 ### number_of_votes
 
