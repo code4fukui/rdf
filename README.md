@@ -132,6 +132,12 @@ https://code4fukui.github.io/rdf/#number_of_houses
 
 https://code4fukui.github.io/rdf/#total_house
 
+### cultivated_land
+
+耕作地（例、田, 畑）
+
+https://code4fukui.github.io/rdf/#cultivated_land
+
 ### rice_field
 
 田んぼの面積(ha)
