@@ -33,6 +33,13 @@ https://code4fukui.github.io/rdf/#shipment_value
 
 https://code4fukui.github.io/rdf/#gross_value_added
 
+### population
+
+人口(人)
+（例、1500人）
+
+https://code4fukui.github.io/rdf/#population
+
 ### total_headcount
 
 総人数(人)
