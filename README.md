@@ -158,6 +158,11 @@ https://code4fukui.github.io/rdf/#number_of_times_held
 
 https://code4fukui.github.io/rdf/#number_of_cases
 
+## elderly_category
+
+高齢者のカテゴリー（現時点で一人暮らし,寝たきりのみ）
+
+https://code4fukui.github.io/rdf/#elderly_category
 
 ## 越前市
 
