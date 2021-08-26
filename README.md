@@ -140,6 +140,19 @@ https://code4fukui.github.io/rdf/#name_of_PoliticalParty
 
 https://code4fukui.github.io/rdf/#name_of_Municipality
 
+### number_of_days_held
+
+開催日数(日)
+
+https://code4fukui.github.io/rdf/#number_of_days_held
+
+### number_of_times_held
+
+開催回数(回)
+
+https://code4fukui.github.io/rdf/#number_of_times_held
+
+
 ## 越前市
 
 ### echizen_city_area
