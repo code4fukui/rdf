@@ -158,6 +158,18 @@ https://code4fukui.github.io/rdf/#number_of_times_held
 
 https://code4fukui.github.io/rdf/#number_of_cases
 
+### number_of_participation
+
+出場件数(件)
+
+https://code4fukui.github.io/rdf/#number_of_participation
+
+### disaster_name
+
+災害名
+
+https://code4fukui.github.io/rdf/#disaster_name
+
 ## elderly_category
 
 高齢者のカテゴリー（現時点で一人暮らし,寝たきりのみ）
