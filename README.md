@@ -40,6 +40,13 @@ https://code4fukui.github.io/rdf/#gross_value_added
 
 https://code4fukui.github.io/rdf/#population
 
+### headcount
+
+人数(人)
+（例、50人）
+
+https://code4fukui.github.io/rdf/#headcount
+
 ### total_headcount
 
 総人数(人)
