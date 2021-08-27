@@ -22,6 +22,14 @@ https://code4fukui.github.io/rdf/#year
 
 https://code4fukui.github.io/rdf/#age
 
+
+### grade
+
+学年
+（例、1年生）
+
+https://code4fukui.github.io/rdf/#grade
+
 ### number_of_BusinessOffice
 
 事業所数
