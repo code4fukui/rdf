@@ -15,6 +15,13 @@ https://code4fukui.github.io/rdf/#kana
 
 https://code4fukui.github.io/rdf/#year
 
+### imperial_era_name
+
+年号
+（例、令和）
+
+https://code4fukui.github.io/rdf/#imperial_era_name
+
 ### age
 
 年齢
