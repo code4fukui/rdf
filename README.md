@@ -184,11 +184,17 @@ https://code4fukui.github.io/rdf/#number_of_participation
 
 https://code4fukui.github.io/rdf/#disaster_name
 
-## elderly_category
+### elderly_category
 
 高齢者のカテゴリー（現時点で一人暮らし,寝たきりのみ）
 
 https://code4fukui.github.io/rdf/#elderly_category
+
+### result_multiple
+
+昼間人口／常住人口(倍)
+
+https://code4fukui.github.io/rdf/#result_multiple
 
 ## 越前市
 
