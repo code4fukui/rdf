@@ -8,6 +8,18 @@
 
 https://code4fukui.github.io/rdf/#kana
 
+### old_name
+
+旧名
+
+https://code4fukui.github.io/rdf/#old_name
+
+### new_name
+
+新名
+
+https://code4fukui.github.io/rdf/#new_name
+
 ### year
 
 和暦・西暦
@@ -21,6 +33,21 @@ https://code4fukui.github.io/rdf/#year
 （例、令和）
 
 https://code4fukui.github.io/rdf/#imperial_era_name
+
+### month
+
+月
+（例、6月）
+
+https://code4fukui.github.io/rdf/#month
+
+### day
+
+日
+（例、23日）
+
+https://code4fukui.github.io/rdf/#day
+
 
 ### age
 
@@ -102,7 +129,13 @@ https://code4fukui.github.io/rdf/#cultivated_land
 
 ### areasquare_ha
 
-面積(ha)
+面積(k㎡)
+
+https://code4fukui.github.io/rdf/#areasquare_km2
+
+### areasquare_km2
+
+面積(km)
 
 https://code4fukui.github.io/rdf/#areasquare_ha
 
@@ -219,6 +252,13 @@ https://code4fukui.github.io/rdf/#result_multiple
 （例、東地区）
 
 https://code4fukui.github.io/rdf/#echizen_city_area
+
+### echizen_city_county
+
+越前市の郡名称
+（例、南條郡）
+
+https://code4fukui.github.io/rdf/#echizen_city_county
 
 
 ### echizen_building_ownership
