@@ -8,6 +8,18 @@
 
 https://code4fukui.github.io/rdf/#kana
 
+### rows
+
+行
+
+https://code4fukui.github.io/rdf/#rows
+
+### columns
+
+列
+
+https://code4fukui.github.io/rdf/#columns
+
 ### old_name
 
 旧名
