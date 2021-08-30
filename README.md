@@ -152,6 +152,12 @@ https://code4fukui.github.io/rdf/#headcount
 
 https://code4fukui.github.io/rdf/#total_headcount
 
+### population_density
+
+人口密度(人/k㎡)
+
+https://code4fukui.github.io/rdf/#population_density
+
 ### capacity
 
 収容人数(人)
