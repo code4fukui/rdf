@@ -170,6 +170,12 @@ https://code4fukui.github.io/rdf/#user
 
 https://code4fukui.github.io/rdf/#housing_management
 
+### number_of_households
+
+世帯数(世帯)
+
+https://code4fukui.github.io/rdf/#number_of_households
+
 ### number_of_houses
 
 戸数(戸)
