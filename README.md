@@ -212,6 +212,12 @@ https://code4fukui.github.io/rdf/#total_house
 
 https://code4fukui.github.io/rdf/#cultivated_land
 
+### areasquare_m2
+
+面積(㎡)
+
+https://code4fukui.github.io/rdf/#areasquare_m2
+
 ### areasquare_km2
 
 面積(k㎡)
