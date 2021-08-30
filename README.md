@@ -101,12 +101,6 @@ https://code4fukui.github.io/rdf/#age
 
 https://code4fukui.github.io/rdf/#grade
 
-### capacity
-
-収容人数(人)
-
-https://code4fukui.github.io/rdf/#capacity
-
 ### institution
 
 機関
@@ -151,6 +145,18 @@ https://code4fukui.github.io/rdf/#headcount
 （例、1500人）
 
 https://code4fukui.github.io/rdf/#total_headcount
+
+### capacity
+
+収容人数(人)
+
+https://code4fukui.github.io/rdf/#capacity
+
+### user
+
+利用者
+
+https://code4fukui.github.io/rdf/#user
 
 ### housing_management
 
