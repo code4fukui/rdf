@@ -340,6 +340,18 @@ https://code4fukui.github.io/rdf/#disability_childcare
 
 https://code4fukui.github.io/rdf/#foreign_childcare
 
+### start_address
+
+始点地番
+
+https://code4fukui.github.io/rdf/#start_address
+
+### end_address
+
+終点地番
+
+https://code4fukui.github.io/rdf/#end_address
+
 ## 越前市
 
 ### echizen_city_area
