@@ -182,15 +182,15 @@ https://code4fukui.github.io/rdf/#total_house
 
 https://code4fukui.github.io/rdf/#cultivated_land
 
-### areasquare_ha
+### areasquare_km2
 
 面積(k㎡)
 
 https://code4fukui.github.io/rdf/#areasquare_km2
 
-### areasquare_km2
+### areasquare_ha
 
-面積(km)
+面積(ha)
 
 https://code4fukui.github.io/rdf/#areasquare_ha
 
