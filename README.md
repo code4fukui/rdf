@@ -12,7 +12,13 @@ https://code4fukui.github.io/rdf/#kana
 
 記号
 
-https://code4fukui.github.io/rdf/#
+https://code4fukui.github.io/rdf/#mark
+
+### classification
+
+分類
+
+https://code4fukui.github.io/rdf/#classification
 
 ### rows
 
@@ -25,6 +31,12 @@ https://code4fukui.github.io/rdf/#rows
 列
 
 https://code4fukui.github.io/rdf/#columns
+
+### consonant
+
+音
+
+https://code4fukui.github.io/rdf/#consonant
 
 ### old_name
 
@@ -262,6 +274,18 @@ https://code4fukui.github.io/rdf/#elderly_category
 
 https://code4fukui.github.io/rdf/#result_multiple
 
+### type_of_trash
+
+ごみの種類
+
+https://code4fukui.github.io/rdf/#type_of_trash
+
+### conditions_of_collection
+
+収集の際の条件
+
+https://code4fukui.github.io/rdf/#conditions_of_collection
+
 ## 越前市
 
 ### echizen_city_area
@@ -290,5 +314,7 @@ https://code4fukui.github.io/rdf/#echizen_building_ownership
 市民バス利用者(人)
 
 https://code4fukui.github.io/rdf/#echizen_city_bus_user
+
+
 
 
