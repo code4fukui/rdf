@@ -119,6 +119,18 @@ https://code4fukui.github.io/rdf/#number_of_BusinessOffice
 
 https://code4fukui.github.io/rdf/#value
 
+### value_year
+
+金額(年額)
+
+https://code4fukui.github.io/rdf/#value_year
+
+### burden_ratio
+
+負担割合
+
+https://code4fukui.github.io/rdf/#burden_ratio
+
 ### shipment_value
 
 製造品出荷額等(万円)
