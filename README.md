@@ -101,6 +101,18 @@ https://code4fukui.github.io/rdf/#age
 
 https://code4fukui.github.io/rdf/#grade
 
+### capacity
+
+収容人数(人)
+
+https://code4fukui.github.io/rdf/#capacity
+
+### institution
+
+機関
+
+https://code4fukui.github.io/rdf/#institution
+
 ### number_of_BusinessOffice
 
 事業所数
@@ -220,7 +232,6 @@ https://code4fukui.github.io/rdf/#number_of_MaleTurnout
 
 https://code4fukui.github.io/rdf/#number_of_FemaleTurnout
 
-
 ### voter
 
 投票者
@@ -293,6 +304,36 @@ https://code4fukui.github.io/rdf/#type_of_trash
 
 https://code4fukui.github.io/rdf/#conditions_of_collection
 
+### acceptage
+
+受け入れ期間
+
+https://code4fukui.github.io/rdf/#acceptage
+
+### temporary_custody
+
+一時預かり
+
+https://code4fukui.github.io/rdf/#temporary_custody
+
+### holiday_childcare
+
+休日保育
+
+https://code4fukui.github.io/rdf/#holiday_childcare
+
+### disability_childcare
+
+障害保育
+
+https://code4fukui.github.io/rdf/#disability_childcare
+
+### foreign_childcare
+
+外国籍保育
+
+https://code4fukui.github.io/rdf/#foreign_childcare
+
 ## 越前市
 
 ### echizen_city_area
@@ -309,6 +350,12 @@ https://code4fukui.github.io/rdf/#echizen_city_area
 
 https://code4fukui.github.io/rdf/#echizen_city_county
 
+### echizen_city_origin
+
+越前市役所の課
+（例、子ども福祉課）
+
+https://code4fukui.github.io/rdf/#echizen_city_origin
 
 ### echizen_building_ownership
 
