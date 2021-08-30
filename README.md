@@ -2,11 +2,18 @@
 
 ## 共通
 
-### kana
+
+### hiragana
+
+かな表記
+
+https://code4fukui.github.io/rdf/#hiragana
+
+### katakana
 
 カナ表記
 
-https://code4fukui.github.io/rdf/#kana
+https://code4fukui.github.io/rdf/#katakana
 
 ### mark
 
