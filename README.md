@@ -381,6 +381,12 @@ https://code4fukui.github.io/rdf/#echizen_city_origin
 
 https://code4fukui.github.io/rdf/#echizen_building_ownership
 
+### echizen_city_population
+
+越前市本籍人口(人)
+
+https://code4fukui.github.io/rdf/#echizen_city_population
+
 ### echizen_city_bus_user
 
 市民バス利用者(人)
