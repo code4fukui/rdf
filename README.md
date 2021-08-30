@@ -274,6 +274,12 @@ https://code4fukui.github.io/rdf/#number_of_MaleTurnout
 
 https://code4fukui.github.io/rdf/#number_of_FemaleTurnout
 
+### response_rate
+
+回答率
+
+https://code4fukui.github.io/rdf/#response_rate
+
 ### voter
 
 投票者
