@@ -113,6 +113,12 @@ https://code4fukui.github.io/rdf/#institution
 
 https://code4fukui.github.io/rdf/#number_of_BusinessOffice
 
+### value
+
+金額(千円)
+
+https://code4fukui.github.io/rdf/#value
+
 ### shipment_value
 
 製造品出荷額等(万円)
