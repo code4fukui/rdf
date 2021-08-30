@@ -286,6 +286,12 @@ https://code4fukui.github.io/rdf/#number_of_days_held
 
 https://code4fukui.github.io/rdf/#number_of_times_held
 
+### number_of_times
+
+回数(回)
+
+https://code4fukui.github.io/rdf/#number_of_times
+
 ### number_of_cases
 
 件数(件)
