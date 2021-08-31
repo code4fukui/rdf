@@ -304,6 +304,12 @@ https://code4fukui.github.io/rdf/#response_rate
 
 https://code4fukui.github.io/rdf/#voter
 
+### electorate
+
+有権者数(人)
+
+https://code4fukui.github.io/rdf/#electorate
+
 ### name_of_PoliticalParty
 
 政党名
