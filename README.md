@@ -113,11 +113,11 @@ https://code4fukui.github.io/rdf/#institution
 
 https://code4fukui.github.io/rdf/#number_of_BusinessOffice
 
-### value
+### value_Thousand
 
 金額(千円)
 
-https://code4fukui.github.io/rdf/#value
+https://code4fukui.github.io/rdf/#value_Thousand
 
 ### value_TenThousand
 
