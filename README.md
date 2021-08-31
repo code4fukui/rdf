@@ -249,6 +249,12 @@ https://code4fukui.github.io/rdf/#number_of_votes
 
 https://code4fukui.github.io/rdf/#total_voters
 
+### number_of_voters
+
+投票者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_voters
+
 ### number_of_MaleVoters
 
 男性投票者数(人)
@@ -267,6 +273,12 @@ https://code4fukui.github.io/rdf/#number_of_FemaleVoters
 全体投票率(%)
 
 https://code4fukui.github.io/rdf/#total_turnout
+
+### number_of_turnout
+
+投票率(%)
+
+https://code4fukui.github.io/rdf/#number_of_turnout
 
 ### number_of_MaleTurnout
 
