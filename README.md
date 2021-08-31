@@ -177,6 +177,12 @@ https://code4fukui.github.io/rdf/#composition_ratio
 
 https://code4fukui.github.io/rdf/#capacity
 
+### number_of_registrant
+
+登録者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_registrant
+
 ### user
 
 利用者
@@ -351,6 +357,18 @@ https://code4fukui.github.io/rdf/#type_of_trash
 収集の際の条件
 
 https://code4fukui.github.io/rdf/#conditions_of_collection
+
+### number_of_vehicles
+
+車両の台数(台)
+
+https://code4fukui.github.io/rdf/#number_of_vehicles
+
+### transportation_status
+
+輸送の状況
+
+https://code4fukui.github.io/rdf/#transportation_status
 
 ### acceptage
 
