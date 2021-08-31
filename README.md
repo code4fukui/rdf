@@ -213,6 +213,12 @@ https://code4fukui.github.io/rdf/#number_of_houses
 
 https://code4fukui.github.io/rdf/#total_house
 
+### layer
+
+レイヤ情報
+
+https://code4fukui.github.io/rdf/#layer
+
 ### cultivated_land
 
 耕作地（例、田, 畑）
