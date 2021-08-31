@@ -170,6 +170,12 @@ https://code4fukui.github.io/rdf/#total_headcount
 
 https://code4fukui.github.io/rdf/#population_density
 
+###composition_ratio
+
+構成比(%)
+
+https://code4fukui.github.io/rdf/#composition_ratio
+
 ### capacity
 
 収容人数(人)
