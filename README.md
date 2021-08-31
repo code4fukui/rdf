@@ -119,6 +119,13 @@ https://code4fukui.github.io/rdf/#number_of_BusinessOffice
 
 https://code4fukui.github.io/rdf/#value
 
+### value_TenThousand
+
+金額(万円)
+
+https://code4fukui.github.io/rdf/#value_TenThousand
+
+
 ### value_year
 
 金額(年額)
@@ -130,18 +137,6 @@ https://code4fukui.github.io/rdf/#value_year
 負担割合
 
 https://code4fukui.github.io/rdf/#burden_ratio
-
-### shipment_value
-
-製造品出荷額等(万円)
-
-https://code4fukui.github.io/rdf/#shipment_value
-
-### gross_value_added
-
-粗付加価値額(万円)
-
-https://code4fukui.github.io/rdf/#gross_value_added
 
 ### population
 
@@ -170,7 +165,7 @@ https://code4fukui.github.io/rdf/#total_headcount
 
 https://code4fukui.github.io/rdf/#population_density
 
-###composition_ratio
+### composition_ratio
 
 構成比(%)
 
