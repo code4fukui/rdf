@@ -382,6 +382,12 @@ https://code4fukui.github.io/rdf/#disability_childcare
 
 https://code4fukui.github.io/rdf/#foreign_childcare
 
+### childcare_consultation
+
+教育相談
+
+https://code4fukui.github.io/rdf/#childcare_consultation
+
 ### start_address
 
 始点地番
