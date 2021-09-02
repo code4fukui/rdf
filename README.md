@@ -400,6 +400,115 @@ https://code4fukui.github.io/rdf/#number_of_participation
 
 https://code4fukui.github.io/rdf/#disaster_name
 
+
+### average_temperature
+
+平均気温(℃)
+
+https://code4fukui.github.io/rdf/#average_temperature
+
+### highest_temperature
+
+最高気温(℃)
+
+https://code4fukui.github.io/rdf/#highest_temperature
+
+### lowest_temperature
+
+最低気温(℃)
+
+https://code4fukui.github.io/rdf/#lowest_temperature
+
+### average_humidity
+
+平均湿度(%)
+
+https://code4fukui.github.io/rdf/#average_humidity
+
+### highest_humidity
+
+最高湿度(%)
+
+https://code4fukui.github.io/rdf/#highest_humidity
+
+### lowest_humidity
+
+最低湿度(%)
+
+https://code4fukui.github.io/rdf/#lowest_humidity
+
+### annual_precipitation
+
+降水量(mm)
+
+https://code4fukui.github.io/rdf/#annual_precipitation
+
+### precipitation_days
+
+降水日数(日)
+
+https://code4fukui.github.io/rdf/#precipitation_days
+
+### clear_days
+
+快晴日数(日)
+
+https://code4fukui.github.io/rdf/#clear_days
+
+### fair_days
+
+晴日数(日)
+
+https://code4fukui.github.io/rdf/#fair_days
+
+### cloudy_days
+
+くもり日数(日)
+
+https://code4fukui.github.io/rdf/#cloudy_days
+
+### rainy_days
+
+雨日数(日)
+
+https://code4fukui.github.io/rdf/#rainy_days
+
+### snow_days
+
+雪日数(日)
+
+https://code4fukui.github.io/rdf/#snow_days
+
+### sleet_days
+
+みぞれ日数(日)
+
+https://code4fukui.github.io/rdf/#sleet_days
+
+### average_pressure
+
+平均気圧(hpa)
+
+https://code4fukui.github.io/rdf/#average_pressure
+
+### average_wind_speed
+
+平均風速(m/s)
+
+https://code4fukui.github.io/rdf/#average_wind_speed
+
+### highest_wind_speed
+
+最大風速(10分平均m/s)
+
+https://code4fukui.github.io/rdf/#highest_wind_speed
+
+### maximum_wind_direction
+
+最大時風向
+
+https://code4fukui.github.io/rdf/#maximum_wind_direction
+
 ### elderly_category
 
 高齢者のカテゴリー（現時点で一人暮らし,寝たきりのみ）
@@ -474,7 +583,7 @@ https://code4fukui.github.io/rdf/#category2
 
 ### category3
 
-カテゴリー
+カテゴリー３
 
 https://code4fukui.github.io/rdf/#category3
 
