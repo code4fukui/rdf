@@ -406,37 +406,71 @@ https://code4fukui.github.io/rdf/#elderly_category
 
 https://code4fukui.github.io/rdf/#support_required
 
+### support_required1
+
 要支援１
 
 https://code4fukui.github.io/rdf/#support_required1
+
+### support_required2
 
 要支援２
 
 https://code4fukui.github.io/rdf/#support_required2
 
+### transitional_care_required
+
 経過的要介護
 
 https://code4fukui.github.io/rdf/#transitional_care_required
+
+### care_required1
 
 要介護１
 
 https://code4fukui.github.io/rdf/#care_required1
 
+### care_required2
+
 要介護２
 
 https://code4fukui.github.io/rdf/#care_required2
+
+### care_required3
 
 要介護３
 
 https://code4fukui.github.io/rdf/#care_required3
 
+### care_required4
+
 要介護４
 
 https://code4fukui.github.io/rdf/#care_required4
 
+### care_required5
+
 要介護５
 
 https://code4fukui.github.io/rdf/#care_required5
+
+### category1
+
+カテゴリー１
+
+https://code4fukui.github.io/rdf/#category1
+
+### category2
+
+カテゴリー２
+
+https://code4fukui.github.io/rdf/#category2
+
+### category3
+
+カテゴリー
+
+https://code4fukui.github.io/rdf/#category3
 
 
 ### result_multiple
