@@ -500,7 +500,7 @@ https://code4fukui.github.io/rdf/#mental_disability
 
 障害児
 
-https://code4fukui.github.io/rdf/#disability
+https://code4fukui.github.io/rdf/#child_with_disabilities
 
 ### result_multiple
 
