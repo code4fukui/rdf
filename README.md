@@ -189,6 +189,18 @@ https://code4fukui.github.io/rdf/#number_of_registrant
 
 https://code4fukui.github.io/rdf/#user
 
+### otherCities_inPrefecture
+
+県内他市町村に常住(人)
+
+https://code4fukui.github.io/rdf/#otherCities_inPrefecture
+
+### otherPrefectures
+
+他県に常住(人)
+
+https://code4fukui.github.io/rdf/#otherPrefectures
+
 ### housing_management
 
 住宅の運営（市営or県営or公営）
