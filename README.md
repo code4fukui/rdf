@@ -604,6 +604,12 @@ https://code4fukui.github.io/rdf/#lent_books_InGeneral
 
 https://code4fukui.github.io/rdf/#lent_books_InChild
 
+### total_lent_books
+
+貸出冊数計(冊)
+
+https://code4fukui.github.io/rdf/#total_lent_books
+
 ### people_lented_InGeneral
 
 貸出人数一般(人)
