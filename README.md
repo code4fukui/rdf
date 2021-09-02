@@ -400,6 +400,45 @@ https://code4fukui.github.io/rdf/#disaster_name
 
 https://code4fukui.github.io/rdf/#elderly_category
 
+### support_required
+
+要支援
+
+https://code4fukui.github.io/rdf/#support_required
+
+要支援１
+
+https://code4fukui.github.io/rdf/#support_required1
+
+要支援２
+
+https://code4fukui.github.io/rdf/#support_required2
+
+経過的要介護
+
+https://code4fukui.github.io/rdf/#transitional_care_required
+
+要介護１
+
+https://code4fukui.github.io/rdf/#care_required1
+
+要介護２
+
+https://code4fukui.github.io/rdf/#care_required2
+
+要介護３
+
+https://code4fukui.github.io/rdf/#care_required3
+
+要介護４
+
+https://code4fukui.github.io/rdf/#care_required4
+
+要介護５
+
+https://code4fukui.github.io/rdf/#care_required5
+
+
 ### result_multiple
 
 昼間人口／常住人口(倍)
