@@ -478,27 +478,27 @@ https://code4fukui.github.io/rdf/#category2
 
 https://code4fukui.github.io/rdf/#category3
 
-### physical
+### physical_disability
 
 身体
 
-https://code4fukui.github.io/rdf/#physical
+https://code4fukui.github.io/rdf/#physical_disability
 
-### intellectual
+### intellectual_disability
 
 知的
 
-https://code4fukui.github.io/rdf/#intellectual
+https://code4fukui.github.io/rdf/#intellectual_disability
 
-### mental
+### mental_disability
 
 精神
 
-https://code4fukui.github.io/rdf/#mental
+https://code4fukui.github.io/rdf/#mental_disability
 
-### disability
+### child_with_disabilities
 
-障害
+障害児
 
 https://code4fukui.github.io/rdf/#disability
 
