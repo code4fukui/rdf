@@ -219,6 +219,48 @@ https://code4fukui.github.io/rdf/#total_house
 
 https://code4fukui.github.io/rdf/#layer
 
+### file_name
+
+ファイル名
+
+https://code4fukui.github.io/rdf/#file_name
+
+### xls_file
+
+xls形式ファイル名
+
+https://code4fukui.github.io/rdf/#xls_file
+
+### attribution_name
+
+帰属する名前
+
+https://code4fukui.github.io/rdf/#attribution_name
+
+### attribution_url
+
+帰属するURL
+
+https://code4fukui.github.io/rdf/#attribution_url
+
+### ref_url
+
+参照URL
+
+https://code4fukui.github.io/rdf/#ref_url
+
+### link_data
+
+リンクデータ
+
+https://code4fukui.github.io/rdf/#link_data
+
+### ref_text
+
+参照テキスト
+
+https://code4fukui.github.io/rdf/#ref_text
+
 ### cultivated_land
 
 耕作地（例、田, 畑）
