@@ -580,6 +580,48 @@ https://code4fukui.github.io/rdf/#start_address
 
 https://code4fukui.github.io/rdf/#end_address
 
+### collection_of_books
+
+蔵書冊数(冊)
+
+https://code4fukui.github.io/rdf/#collection_of_books
+
+### opening_days
+
+開館日数(日)
+
+https://code4fukui.github.io/rdf/#opening_days
+
+### lent_books_InGeneral
+
+貸出冊数一般(冊)
+
+https://code4fukui.github.io/rdf/#lent_books_InGeneral
+
+### lent_books_InChild
+
+貸出冊数児童(冊)
+
+https://code4fukui.github.io/rdf/#lent_books_InChild
+
+### people_lented_InGeneral
+
+貸出人数一般(人)
+
+https://code4fukui.github.io/rdf/#people_lented_InGeneral
+
+### people_lented_InChild
+
+貸出人数児童(人)
+
+https://code4fukui.github.io/rdf/#people_lented_InChild
+
+### total_people_lented
+
+貸出人数計(人)
+
+https://code4fukui.github.io/rdf/#total_people_lented
+
 ## 越前市
 
 ### echizen_city_area
