@@ -480,19 +480,19 @@ https://code4fukui.github.io/rdf/#category3
 
 ### physical_disability
 
-身体
+身体障害
 
 https://code4fukui.github.io/rdf/#physical_disability
 
 ### intellectual_disability
 
-知的
+知的障害
 
 https://code4fukui.github.io/rdf/#intellectual_disability
 
 ### mental_disability
 
-精神
+精神障害
 
 https://code4fukui.github.io/rdf/#mental_disability
 
