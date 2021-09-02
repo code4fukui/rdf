@@ -376,6 +376,12 @@ https://code4fukui.github.io/rdf/#number_of_times_held
 
 https://code4fukui.github.io/rdf/#number_of_times
 
+### counts
+
+カウント数
+
+https://code4fukui.github.io/rdf/#counts
+
 ### number_of_cases
 
 件数(件)
