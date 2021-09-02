@@ -159,6 +159,18 @@ https://code4fukui.github.io/rdf/#headcount
 
 https://code4fukui.github.io/rdf/#total_headcount
 
+### population_U15
+
+15歳未満の人口(人)
+
+https://code4fukui.github.io/rdf/#population_U15
+
+### population_O65
+
+65歳以上の人口(人)
+
+https://code4fukui.github.io/rdf/#population_O65
+
 ### population_density
 
 人口密度(人/k㎡)
@@ -212,6 +224,36 @@ https://code4fukui.github.io/rdf/#housing_management
 世帯数(世帯)
 
 https://code4fukui.github.io/rdf/#number_of_households
+
+### number_of_GeneralHouseholds
+
+一般世帯数(世帯)
+
+https://code4fukui.github.io/rdf/#number_of_GeneralHouseholds
+
+### number_of_FacilityHouseholds
+
+施設等の世帯数(世帯)
+
+https://code4fukui.github.io/rdf/#number_of_FacilityHouseholds
+
+### total_households
+
+世帯総数(世帯)
+
+https://code4fukui.github.io/rdf/#total_households
+
+### general_household_personnel
+
+一般世帯人員(人)
+
+https://code4fukui.github.io/rdf/#general_household_personnel
+
+### facility_household_personnel
+
+施設等の世帯人員(人)
+
+https://code4fukui.github.io/rdf/#facility_household_personnel
 
 ### number_of_houses
 
