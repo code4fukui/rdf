@@ -478,6 +478,29 @@ https://code4fukui.github.io/rdf/#category2
 
 https://code4fukui.github.io/rdf/#category3
 
+### physical
+
+身体
+
+https://code4fukui.github.io/rdf/#physical
+
+### intellectual
+
+知的
+
+https://code4fukui.github.io/rdf/#intellectual
+
+### mental
+
+精神
+
+https://code4fukui.github.io/rdf/#mental
+
+### disability
+
+障害
+
+https://code4fukui.github.io/rdf/#disability
 
 ### result_multiple
 
