@@ -436,6 +436,42 @@ https://code4fukui.github.io/rdf/#number_of_cases
 
 https://code4fukui.github.io/rdf/#number_of_participation
 
+### number_of_accidents
+
+事故件数(件)
+
+https://code4fukui.github.io/rdf/#number_of_accidents
+
+### number_of_AccidentsHighway
+
+事故件数うち高速道路(件)
+
+https://code4fukui.github.io/rdf/#number_of_AccidentsHighway
+
+### number_of_deaths
+
+死者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_deaths
+
+### number_of_DeathsHighway
+
+死者数うち高速道路(人)
+
+https://code4fukui.github.io/rdf/#number_of_DeathsHighway
+
+### number_of_injured
+
+傷者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_injured
+
+### number_of_InjuredHighway
+
+傷者数うち高速道路(人)
+
+https://code4fukui.github.io/rdf/#number_of_InjuredHighway
+
 ### disaster_name
 
 災害名
