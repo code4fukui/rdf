@@ -634,6 +634,66 @@ https://code4fukui.github.io/rdf/#affected_households
 
 https://code4fukui.github.io/rdf/#number_of_affected
 
+### realBalance_ratio
+
+実質収支比率（％）
+
+https://code4fukui.github.io/rdf/#realBalance_ratio
+
+### currentAccount_ratio
+
+経常収支比率（％）
+
+https://code4fukui.github.io/rdf/#currentAccount_ratio
+
+### realDebtService_ratio
+
+実質公債費比率（％）
+
+https://code4fukui.github.io/rdf/#realDebtService_ratio
+
+### standard_financial_demand
+
+基準財政需要額（千円）
+
+https://code4fukui.github.io/rdf/#standard_financial_demand
+
+### standard_financial_income
+
+基準財政収入額（千円）
+
+https://code4fukui.github.io/rdf/#standard_financial_income
+
+### standard_financial_scale
+
+標準財政規模（千円）
+
+https://code4fukui.github.io/rdf/#standard_financial_scale
+
+### financial_strength_index
+
+財政力指数（３ヵ年平均）
+
+https://code4fukui.github.io/rdf/#financial_strength_index
+
+### financialAdjustment_FundBalance 
+
+財政調整基金残高（千円）
+
+https://code4fukui.github.io/rdf/#financialAdjustment_FundBalance
+
+### sinking_FundBalance
+
+減債基金残高（千円）
+
+https://code4fukui.github.io/rdf/#sinking_FundBalance
+
+### currentAmount_of_LocalBonds
+
+地方債現在高（千円）
+
+https://code4fukui.github.io/rdf/#currentAmount_of_LocalBonds
+
 ### average_temperature
 
 平均気温(℃)
