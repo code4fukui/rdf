@@ -138,6 +138,12 @@ https://code4fukui.github.io/rdf/#value_year
 
 https://code4fukui.github.io/rdf/#burden_ratio
 
+### organization_rate
+
+組織率(%)
+
+https://code4fukui.github.io/rdf/#organization_rate
+
 ### population
 
 人口(人)
@@ -213,6 +219,18 @@ https://code4fukui.github.io/rdf/#otherCities_inPrefecture
 
 https://code4fukui.github.io/rdf/#otherPrefectures
 
+### number_of_members
+
+隊員数(人)
+
+https://code4fukui.github.io/rdf/#number_of_members
+
+### number_of_organizations
+
+自主防災組織の組織数
+
+https://code4fukui.github.io/rdf/#number_of_organizations
+
 ### housing_management
 
 住宅の運営（市営or県営or公営）
@@ -224,6 +242,12 @@ https://code4fukui.github.io/rdf/#housing_management
 世帯数(世帯)
 
 https://code4fukui.github.io/rdf/#number_of_households
+
+### total_households
+
+世帯総数(世帯)
+
+https://code4fukui.github.io/rdf/#total_households
 
 ### number_of_GeneralHouseholds
 
@@ -237,11 +261,17 @@ https://code4fukui.github.io/rdf/#number_of_GeneralHouseholds
 
 https://code4fukui.github.io/rdf/#number_of_FacilityHouseholds
 
-### total_households
+### number_of_HouseholdsInJurisdiction
 
-世帯総数(世帯)
+管内世帯数(世帯)
 
-https://code4fukui.github.io/rdf/#total_households
+https://code4fukui.github.io/rdf/#number_of_HouseholdsInJurisdiction
+
+### number_of_OrganizedRegionalHouseholds
+
+組織された地域世帯数(世帯)
+
+https://code4fukui.github.io/rdf/#number_of_OrganizedRegionalHouseholds
 
 ### general_household_personnel
 
@@ -399,6 +429,42 @@ https://code4fukui.github.io/rdf/#name_of_PoliticalParty
 自治体名（例、鯖江 武生）
 
 https://code4fukui.github.io/rdf/#name_of_Municipality
+
+### number_of_proposals
+
+付議件数(件)
+
+https://code4fukui.github.io/rdf/#number_of_proposals
+
+### number_of_GeneralQuestioners
+
+一般質問者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_GeneralQuestioners
+
+### number_of_RepresentativeQuestioners
+
+代表質問者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_RepresentativeQuestioners
+
+### attendance_rate
+
+出席率(%)
+
+https://code4fukui.github.io/rdf/#attendance_rate
+
+### number_of_listeners
+
+傍聴者数(人)
+
+https://code4fukui.github.io/rdf/#number_of_listeners
+
+### meeting_days
+
+本会議日数(日)
+
+https://code4fukui.github.io/rdf/#meeting_days
 
 ### number_of_days_held
 
