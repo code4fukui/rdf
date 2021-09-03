@@ -544,6 +544,95 @@ https://code4fukui.github.io/rdf/#number_of_InjuredHighway
 
 https://code4fukui.github.io/rdf/#disaster_name
 
+### total_fire
+
+火災件数 総数(件)
+
+https://code4fukui.github.io/rdf/#total_fire
+
+### fire_building
+
+火災件数 建物(件)
+
+https://code4fukui.github.io/rdf/#fire_building
+
+### fire_ForestsAndFields
+
+火災件数 林野(件)
+
+https://code4fukui.github.io/rdf/#fire_ForestsAndFields
+
+### fire_vehicle
+
+火災件数 車輌(件)
+
+https://code4fukui.github.io/rdf/#fire_vehicle
+
+### fire_others
+
+火災件数 その他(件)
+
+https://code4fukui.github.io/rdf/#fire_other
+
+### burnt_building
+
+焼損面積 建物(㎡)
+
+https://code4fukui.github.io/rdf/#burnt_building
+
+### burnt_ForestsAndFields
+
+焼損面積 林野(㎡)
+
+https://code4fukui.github.io/rdf/#burnt_ForestsAndFields
+
+### burnt_others
+
+焼損面積 その他(㎡)
+
+https://code4fukui.github.io/rdf/#burnt_others
+
+### total_damage
+
+損害額 総額(千円)
+
+https://code4fukui.github.io/rdf/#total_damage
+
+### damage_building
+
+損害額 建物(千円)
+
+https://code4fukui.github.io/rdf/#damage_building
+
+### danage_ForestsAndFields
+
+損害額 林野(千円)
+
+https://code4fukui.github.io/rdf/#danage_ForestsAndFields
+
+### damage_vehicle
+
+損害額 車輌(千円)
+
+https://code4fukui.github.io/rdf/#damage_vehicle
+
+### damage_others
+
+損害額 その他(千円)
+
+https://code4fukui.github.io/rdf/#damage_others
+
+### affected_households
+
+罹災世帯数(世帯)
+
+https://code4fukui.github.io/rdf/#affected_households
+
+### number_of_affected
+
+罹災人員(人)
+
+https://code4fukui.github.io/rdf/#number_of_affected
 
 ### average_temperature
 
