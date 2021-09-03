@@ -85,14 +85,12 @@ https://code4fukui.github.io/rdf/#month
 
 https://code4fukui.github.io/rdf/#day
 
-
 ### age
 
 年齢
 （例、15歳）
 
 https://code4fukui.github.io/rdf/#age
-
 
 ### grade
 
@@ -106,6 +104,24 @@ https://code4fukui.github.io/rdf/#grade
 機関
 
 https://code4fukui.github.io/rdf/#institution
+
+### category1
+
+カテゴリー１
+
+https://code4fukui.github.io/rdf/#category1
+
+### category2
+
+カテゴリー２
+
+https://code4fukui.github.io/rdf/#category2
+
+### category3
+
+カテゴリー３
+
+https://code4fukui.github.io/rdf/#category3
 
 ### number_of_BusinessOffice
 
@@ -124,7 +140,6 @@ https://code4fukui.github.io/rdf/#value_Thousand
 金額(万円)
 
 https://code4fukui.github.io/rdf/#value_TenThousand
-
 
 ### value_year
 
@@ -862,23 +877,137 @@ https://code4fukui.github.io/rdf/#care_required4
 
 https://code4fukui.github.io/rdf/#care_required5
 
-### category1
+### home_care_support 
 
-カテゴリー１
+居　★居宅介護支援（●予防支援）
 
-https://code4fukui.github.io/rdf/#category1
+https://code4fukui.github.io/rdf/#home_care_support
 
-### category2
+### visit_care
 
-カテゴリー２
+居　訪問介護
 
-https://code4fukui.github.io/rdf/#category2
+https://code4fukui.github.io/rdf/#visit_care
 
-### category3
+### visit_rehabilitation
 
-カテゴリー３
+居　訪問リハビリテーシヨン
 
-https://code4fukui.github.io/rdf/#category3
+https://code4fukui.github.io/rdf/#visit_rehabilitation
+
+### visit_bathing_care
+
+居　訪問入浴介護
+
+https://code4fukui.github.io/rdf/#visit_bathing_care
+
+### visit_nursing
+
+居　訪問看護
+
+https://code4fukui.github.io/rdf/#visit_nursing
+
+### day_service
+
+居　通所介護（デイサービス）
+
+https://code4fukui.github.io/rdf/#day_service
+
+### outpatient_rehabilitation
+
+居　通所リハビリテーション
+
+https://code4fukui.github.io/rdf/#outpatient_rehabilitation
+
+### shortAdmissionLife_care
+
+居　短期入所生活介護
+
+https://code4fukui.github.io/rdf/#shortAdmissionLife_care
+
+### shortAdmission_medical_care
+
+居　短期入所療養介護
+
+https://code4fukui.github.io/rdf/#shortAdmission_medical_care
+
+### welfareEquipment_rental
+
+居　福祉用具貸与
+
+https://code4fukui.github.io/rdf/#welfare_equipment_rental
+
+### specific_WelfareEquipment_sale
+
+居　特定福祉用具販売
+
+https://code4fukui.github.io/rdf/#specific_WelfareEquipment_sale
+
+### specific_facility
+
+居　特定施設
+
+https://code4fukui.github.io/rdf/#specific_facility
+
+### dementiaFriendly_CommunalLife_care
+
+地　認知症対応型共同生活介護
+
+https://code4fukui.github.io/rdf/#dementiaFriendly_CommunalLife_care
+
+### community_outpatient_care
+
+地　地域密着型通所介護
+
+https://code4fukui.github.io/rdf/#community_outpatient_care
+
+### small_MultifunctionalHome_care
+
+地　小規模多機能型居宅介護
+
+https://code4fukui.github.io/rdf/#small_MultifunctionalHome_care
+
+### nursingSmall_MultifunctionalHome_care
+
+地　看護小規模多機能型居宅介護
+
+https://code4fukui.github.io/rdf/#nursingSmall_MultifunctionalHome_care
+
+### dementia_outpatient_care
+
+地　認知症対応型通所介護
+
+https://code4fukui.github.io/rdf/#dementia_outpatient_care
+
+### patrolAndOccasionalVisit_nursing_care
+
+地　定期巡回・随時対応型訪問介護看護
+
+https://code4fukui.github.io/rdf/#patrolAndOccasionalVisit_nursing_care
+
+### careFacility_elderly_chi
+
+地　介護老人福祉施設
+
+https://code4fukui.github.io/rdf/#careFacility_elderly_chi
+
+### careFacility_elderly_shi
+
+施　介護老人福祉施設
+
+https://code4fukui.github.io/rdf/#careFacility_elderly_shi
+
+### careHealthFacility_elderly
+
+施　介護老人保健施設
+
+https://code4fukui.github.io/rdf/#careHealthFacility_elderly
+
+### nursingCare_medicalFacility
+
+施　介護療養型医療施設
+
+https://code4fukui.github.io/rdf/#nursingCare_medicalFacility
 
 ### physical_disability
 
