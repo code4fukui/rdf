@@ -879,133 +879,133 @@ https://code4fukui.github.io/rdf/#care_required5
 
 ### home_care_support 
 
-居　★居宅介護支援（●予防支援）
+居宅サービス　★居宅介護支援（●予防支援）
 
 https://code4fukui.github.io/rdf/#home_care_support
 
 ### visit_care
 
-居　訪問介護
+居宅サービス　訪問介護
 
 https://code4fukui.github.io/rdf/#visit_care
 
 ### visit_rehabilitation
 
-居　訪問リハビリテーシヨン
+居宅サービス　訪問リハビリテーシヨン
 
 https://code4fukui.github.io/rdf/#visit_rehabilitation
 
 ### visit_bathing_care
 
-居　訪問入浴介護
+居宅サービス　訪問入浴介護
 
 https://code4fukui.github.io/rdf/#visit_bathing_care
 
 ### visit_nursing
 
-居　訪問看護
+居宅サービス　訪問看護
 
 https://code4fukui.github.io/rdf/#visit_nursing
 
 ### day_service
 
-居　通所介護（デイサービス）
+居宅サービス　通所介護（デイサービス）
 
 https://code4fukui.github.io/rdf/#day_service
 
 ### outpatient_rehabilitation
 
-居　通所リハビリテーション
+居宅サービス　通所リハビリテーション
 
 https://code4fukui.github.io/rdf/#outpatient_rehabilitation
 
 ### shortAdmissionLife_care
 
-居　短期入所生活介護
+居宅サービス　短期入所生活介護
 
 https://code4fukui.github.io/rdf/#shortAdmissionLife_care
 
 ### shortAdmission_medical_care
 
-居　短期入所療養介護
+居宅サービス　短期入所療養介護
 
 https://code4fukui.github.io/rdf/#shortAdmission_medical_care
 
 ### welfareEquipment_rental
 
-居　福祉用具貸与
+居宅サービス　福祉用具貸与
 
 https://code4fukui.github.io/rdf/#welfare_equipment_rental
 
 ### specific_WelfareEquipment_sale
 
-居　特定福祉用具販売
+居宅サービス　特定福祉用具販売
 
 https://code4fukui.github.io/rdf/#specific_WelfareEquipment_sale
 
 ### specific_facility
 
-居　特定施設
+居宅サービス　特定施設
 
 https://code4fukui.github.io/rdf/#specific_facility
 
 ### dementiaFriendly_CommunalLife_care
 
-地　認知症対応型共同生活介護
+地域密着　認知症対応型共同生活介護
 
 https://code4fukui.github.io/rdf/#dementiaFriendly_CommunalLife_care
 
 ### community_outpatient_care
 
-地　地域密着型通所介護
+地域密着　地域密着型通所介護
 
 https://code4fukui.github.io/rdf/#community_outpatient_care
 
 ### small_MultifunctionalHome_care
 
-地　小規模多機能型居宅介護
+地域密着　小規模多機能型居宅介護
 
 https://code4fukui.github.io/rdf/#small_MultifunctionalHome_care
 
 ### nursingSmall_MultifunctionalHome_care
 
-地　看護小規模多機能型居宅介護
+地域密着　看護小規模多機能型居宅介護
 
 https://code4fukui.github.io/rdf/#nursingSmall_MultifunctionalHome_care
 
 ### dementia_outpatient_care
 
-地　認知症対応型通所介護
+地域密着　認知症対応型通所介護
 
 https://code4fukui.github.io/rdf/#dementia_outpatient_care
 
 ### patrolAndOccasionalVisit_nursing_care
 
-地　定期巡回・随時対応型訪問介護看護
+地域密着　定期巡回・随時対応型訪問介護看護
 
 https://code4fukui.github.io/rdf/#patrolAndOccasionalVisit_nursing_care
 
-### careFacility_elderly_chi
+### careFacility_elderly_area   
 
-地　介護老人福祉施設
+地域密着　介護老人福祉施設
 
-https://code4fukui.github.io/rdf/#careFacility_elderly_chi
+https://code4fukui.github.io/rdf/#careFacility_elderly_area
 
-### careFacility_elderly_shi
+### careFacility_elderly_institution
 
-施　介護老人福祉施設
+施設サービス　介護老人福祉施設
 
-https://code4fukui.github.io/rdf/#careFacility_elderly_shi
+https://code4fukui.github.io/rdf/#careFacility_elderly_institution
 
 ### careHealthFacility_elderly
 
-施　介護老人保健施設
+施設サービス　介護老人保健施設
 
 https://code4fukui.github.io/rdf/#careHealthFacility_elderly
 
 ### nursingCare_medicalFacility
 
-施　介護療養型医療施設
+施設サービス　介護療養型医療施設
 
 https://code4fukui.github.io/rdf/#nursingCare_medicalFacility
 
