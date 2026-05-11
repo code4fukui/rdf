@@ -1,7 +1,8 @@
 # Code for FUKUI 語彙
 
-## 共通
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
+## 共通
 
 ### hiragana
 
@@ -383,7 +384,6 @@ https://code4fukui.github.io/rdf/#areasquare_km2
 面積(ha)
 
 https://code4fukui.github.io/rdf/#areasquare_ha
-
 
 ### number_of_votes
 
@@ -1199,7 +1199,4 @@ https://code4fukui.github.io/rdf/#echizen_city_population
 市民バス利用者(人)
 
 https://code4fukui.github.io/rdf/#echizen_city_bus_user
-
-
-
 
